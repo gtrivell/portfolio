@@ -4,6 +4,7 @@ Scrapes through users' data and makes recommendations based on the genre, direct
 of movies they rated highly. Could also make recommendations based off the viewing habits of 
 users with similar taste.
 
+Details in report.
 ____________________________________________________________________
 
 test.dat is the same test file given on miner, just renamed
